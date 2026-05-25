@@ -1,16 +1,18 @@
 # Some interesting problems
-These may not be strictly coding, and some of them are just theoretical  
-Any interested soul is welcome to try them  
-By no means is it compulsory to do it tho  
+These may not be strictly coding exercises, and some are purely theoretical.
+Anyone interested is welcome to give them a try.
+They are entirely optional, but highly encouraged for deeper understanding.
 
 ## 1. Proving that mux is universal
-A of muxes can be used to realise many simple gates
+A mux can be used to realise many simple gates
 For example, the two circuits shown below are completely equivalent functionally
 <img width="1280" height="255" alt="photo_6097955148110958616_y" src="https://github.com/user-attachments/assets/073669d0-1231-4d6f-b5a2-940c506f7f8b" />
 here the function implemented is (a&(~b))
 In a similar way try to implement an *and* gate and a *not* gate
 and now try to combine them
-<img width="1199" height="674" alt="DK" src="https://github.com/user-attachments/assets/d8327f7d-378e-4157-9485-b86a6022983e" />
+
+<img width="600" height="337" alt="DK" src="https://github.com/user-attachments/assets/d8327f7d-378e-4157-9485-b86a6022983e" />
+
 Since we can make a universal gate with it , it is also a universal gate.
 
 ## 2. Dual edge triggered flipflop
